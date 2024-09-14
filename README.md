@@ -1,4 +1,4 @@
-# git-course
+
 # Curso de Git
 
 ## Descripción del Proyecto
